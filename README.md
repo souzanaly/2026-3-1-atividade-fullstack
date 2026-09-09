@@ -12,6 +12,9 @@
 ---
 ## Relato da atividade
 Nome do aluno e seu link do linkedin e github
+Analy Souza de Lima
+https://www.linkedin.com/in/analy-souza-a30481435/
+https://github.com/souzanaly
 
 ### Componentes e tecnologias
 
